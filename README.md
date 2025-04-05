@@ -6,7 +6,7 @@ This is a simple yet visually interactive **Tic-Tac-Toe** (also known as Noughts
 
 ## 📸 Preview
 
-![Game Screenshot](tic.png)
+![Game Screenshot](tic.PNG)
 
 ---
 
